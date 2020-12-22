@@ -1,0 +1,13 @@
+body, td {
+    border: black 1px solid;
+    border-radius: 25px;
+    margin: 50px;
+}
+
+table {
+    width: 10% 50%;
+}
+
+button {
+    border-radius: 25px;
+}
